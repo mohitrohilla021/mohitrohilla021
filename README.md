@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+My profile is really glad to have your presence here...
+
+Thanks for visiting and please go through the repositories that have been made with the real world understanding to bridge the gapp between current scenario and demands...
+
+MOHIT ROHILLA
 <!--
 **mohitrohilla021/mohitrohilla021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
