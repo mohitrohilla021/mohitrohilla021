@@ -5,6 +5,10 @@ My profile is really glad to have your presence here...
 
 Thanks for visiting and please go through the repositories that have been made with the real world understanding to bridge the gap between current scenarios and future demands...
 
+🤔 I’m looking for help for astonishing mentalities which could help me in the mission to "tranform the world into a better place to live in".
+
+👌 I believe in practical personility (which even have thoritical understanding upto the extend required). 
+
 🔭 I’m currently working on Machine Learning, Deep learning and Data science.
 
 Linked ID: https://www.linkedin.com/in/mohit-rohilla-150995164/
