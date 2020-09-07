@@ -12,6 +12,7 @@
 ### 🔭 I’m currently working on Machine Learning, Deep learning and Data science.
 
 ## Linked ID: https://www.linkedin.com/in/mohit-rohilla-150995164/
+## Gmail: rohillamohit01@gmail.com
 
 # ✔ MOHIT ROHILLA ✔
 <!--
