@@ -7,7 +7,7 @@
 
 ### 🤔 I’m looking for help to reach astonishing mentalities which could help me in my mission to "tranform the world into a better place to live in".
 
-### 👌 I believe in practical personility (which even have thoritical understanding upto the extend required). 
+### 👌 I believe in practical personility (which even have theoritical understanding upto the extend required). 
 
 ### 🔭 I’m currently working on Machine Learning, Deep learning and Data science.
 
