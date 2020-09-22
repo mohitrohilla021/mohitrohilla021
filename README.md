@@ -5,6 +5,7 @@
 
 ## Thanks for visiting and please go through the repositories that have been made with the real world understanding to bridge the gap between current scenarios and future demands...
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mohitrohilla021&show_icons=true)
 
 ![Mohit's github stats](https://github-readme-stats.vercel.app/api?username=mohitrohilla021&show_icons=true&theme=radical)
 
