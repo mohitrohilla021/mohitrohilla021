@@ -9,6 +9,8 @@
 
 ![Mohit's github stats](https://github-readme-stats.vercel.app/api?username=mohitrohilla021&count_private=true)
 
+![Mohit's github stats](https://github-readme-stats.vercel.app/api?username=mohitrohilla021&show_icons=true&theme=radical)
+
 ### 🤔 I’m looking for help to reach astonishing mentalities which could help me in my mission to "tranform the world into a better place to live in".
 
 ### 👌 I believe in practical personility (which even have theoritical understanding upto the extend required). 
