@@ -5,9 +5,7 @@
 
 ## Thanks for visiting and please go through the repositories that have been made with the real world understanding to bridge the gap between current scenarios and future demands...
 
-```md
-[![Mohit's github stats](https://github-readme-stats.vercel.app/api?username=mohitrohilla021)](https://github.com/mohitrohilla021/github-readme-stats)
-```
+[![Mohit's github stats](https://github-readme-stats.vercel.app/api?username=mohitrohilla021)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🤔 I’m looking for help to reach astonishing mentalities which could help me in my mission to "tranform the world into a better place to live in".
 
