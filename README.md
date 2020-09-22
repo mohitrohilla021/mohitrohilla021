@@ -5,6 +5,8 @@
 
 ## Thanks for visiting and please go through the repositories that have been made with the real world understanding to bridge the gap between current scenarios and future demands...
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mohitrohilla021&repo=github-readme-stats)](https://github.com/mohitrohilla021/github-readme-stats)
+
 ### 🤔 I’m looking for help to reach astonishing mentalities which could help me in my mission to "tranform the world into a better place to live in".
 
 ### 👌 I believe in practical personility (which even have theoritical understanding upto the extend required). 
