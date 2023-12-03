@@ -14,9 +14,16 @@
 ### 🔭 I’m currently working on Machine Learning, Deep learning and Data science.
 
 ## Linked ID: https://www.linkedin.com/in/mohit-rohilla-150995164/
+## Medium: medium.com/@rohillamohit01
+## Instagram: instagram.com/mohit_rohilla_27?igshid=OGQ5ZDc2ODk2ZA==
+## Facebook Page: facebook.com/profile.php?id=61552558735401&mibextid=ZbWKwL
+## Quora: quora.com/profile/Mohit-Rohilla-132
 ## Gmail: rohillamohit01@gmail.com
 
 # ✔ MOHIT ROHILLA ✔
+
+- 🌱 I’m currently learning Generative AI and trying to make the things more meaningful.
+
 <!--
 **mohitrohilla021/mohitrohilla021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
