@@ -22,6 +22,8 @@
 
 # ✔ MOHIT ROHILLA ✔
 
+- I wish to contribute in the lifes of other to motivate them to take their life to next level.
+
 - 🌱 I’m currently learning Generative AI and trying to make the things more meaningful.
 
 <!--
