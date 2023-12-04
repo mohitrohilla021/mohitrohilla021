@@ -1,9 +1,9 @@
 # Hi there 👋
 
 
-# My profile is really glad to have your presence here...
+# My profile is really glad to have your presence :)
 
-## Thanks for visiting and please go through the repositories that have been made with the real world understanding to bridge the gap between current scenarios and future demands...
+## Thanks for visiting and please go through the repositories that have been made with the real world understanding to bridge the gap between current scenarios and future demands.
 
 ![Mohit's github stats](https://github-readme-stats.vercel.app/api?username=mohitrohilla021&show_icons=true&theme=radical&hide=contribs,prs)
 
@@ -23,7 +23,8 @@
 # ✔ MOHIT ROHILLA ✔
 
 - I wish to contribute in the lifes of other to motivate them to take their life to next level.
-
+- I believe in collaborative efforts. Together we can create a big difference.
+- The best thing about coding and developers is the great community. Community helps to grow faster and effectively.
 - 🌱 I’m currently learning Generative AI and trying to make the things more meaningful.
 
 <!--
