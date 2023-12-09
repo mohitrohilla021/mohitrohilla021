@@ -23,6 +23,8 @@
 # ✔ MOHIT ROHILLA ✔
 
 - I wish to contribute in the lifes of other to motivate them to take their life to next level.
+- Data science is one of the most interesting and aspiring field of today.
+- If we can make others life better by using our technical expertise we should not leave any stone unturned in this direction. 
 - I believe in collaborative efforts. Together we can create a big difference.
 - The best thing about coding and developers is the great community. Community helps to grow faster and effectively.
 - 🌱 I’m currently learning Generative AI and trying to make the things more meaningful.
