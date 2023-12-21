@@ -12,11 +12,11 @@
 
 #### 🔭 I’m currently working on Machine Learning, Deep learning and Data science.
 
-##### Linked ID: https://www.linkedin.com/in/mohit-rohilla-150995164/
-##### Medium: https://www.medium.com/@rohillamohit01
-##### Instagram: https://www.instagram.com/mohit_rohilla_27?igshid=OGQ5ZDc2ODk2ZA==
-##### Facebook Page: https://www.facebook.com/profile.php?id=61552558735401&mibextid=ZbWKwL
-##### Quora: https://www.quora.com/profile/Mohit-Rohilla-132
+###### Linked ID: https://www.linkedin.com/in/mohit-rohilla-150995164/
+###### Medium: https://www.medium.com/@rohillamohit01
+###### Instagram: https://www.instagram.com/mohit_rohilla_27?igshid=OGQ5ZDc2ODk2ZA==
+###### Facebook Page: https://www.facebook.com/profile.php?id=61552558735401&mibextid=ZbWKwL
+###### Quora: https://www.quora.com/profile/Mohit-Rohilla-132
 ##### Gmail: rohillamohit01@gmail.com
 
 
