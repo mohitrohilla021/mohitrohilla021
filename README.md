@@ -6,9 +6,9 @@
 
 ![Mohit's github stats](https://github-readme-stats.vercel.app/api?username=mohitrohilla021&show_icons=true&theme=radical&hide=contribs,prs)
 
-### 🤔 I’m looking for help to reach astonishing mentalities which could help me in my mission to "tranform the world into a better place to live in".
+#### 🤔 I’m looking for help to reach astonishing mentalities which could help me in my mission to "tranform the world into a better place to live in".
 
-### 👌 I believe in practical personality (which even have theoritical understanding upto the extend required). 
+#### 👌 I believe in practical personality (which even have theoritical understanding upto the extend required). 
 
 ### 🔭 I’m currently working on Machine Learning, Deep learning and Data science.
 
