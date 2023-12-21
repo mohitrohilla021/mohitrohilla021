@@ -10,7 +10,7 @@
 
 #### 👌 I believe in practical personality (which even have theoritical understanding upto the extend required). 
 
-### 🔭 I’m currently working on Machine Learning, Deep learning and Data science.
+#### 🔭 I’m currently working on Machine Learning, Deep learning and Data science.
 
 ##### Linked ID: https://www.linkedin.com/in/mohit-rohilla-150995164/
 ##### Medium: https://www.medium.com/@rohillamohit01
